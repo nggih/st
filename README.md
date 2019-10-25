@@ -1,8 +1,10 @@
 # st
-ricing st nord-themed
+ricing st nord-themed. 
 
 In the folder:
 `sudo make install`
+
+This will directly install to usr/bin/st
 
 In the terminal:
 ` sudo update-alternatives --install /usr/bin/x-terminal-emulator x-terminal-emulator /usr/bin/st 100`
